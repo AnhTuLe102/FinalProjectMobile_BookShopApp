@@ -94,17 +94,12 @@ project-name/
 - Frameworks/Libraries: Android SDK, Retrofit (for networking).
 - Local Storage: SharedPreferences.
 
-## Contributors
 
-1. [@nguyenkhanhquy](https://github.com/nguyenkhanhquy) - Nguyễn Khánh Quy - 21110282
-1. [@AnhNguyet2003](https://github.com/AnhNguyet2003) - Nguyễn Trương Ánh Nguyệt - 21110264
-1. [@MiuKay](https://github.com/MiuKay) - Võ Chí Khương - 21110221
-1. [@VTNaad](https://github.com/VTNaad) - Võ Thế Dân - 21110149
 
 ## Author
 
-- Author Name: `Nguyễn Khánh Quy`
-- Email: <nguyenkhanhquy123@gmail.com>
+- Author Name: `Lê Anh Tú`
+- Email: <leanhtupr3@gmail.com>
 
 ## License
 
